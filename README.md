@@ -17,4 +17,4 @@ También se puede abrir `index.html` directamente.
 
 Las imágenes de jugadoras y las ilustraciones son generadas para la demo. Los espacios de la galería deben reemplazarse por fotos del club.
 
-La ubicación del complejo está pendiente de confirmación.
+Incluye un mapa de referencia de El Pinar. La dirección exacta del complejo está pendiente de confirmación.
